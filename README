@@ -1,0 +1,39 @@
+                      G o l d e n 's S S O
+              
+          golden's sso is an open-source, free to use SSO server 
+             (single sign-on) that can be accessed through
+                       ``auth.goldencube.dev``
+
+          Developed by:   Odysseas Chryssos ody (dot) chryssos @ gmail (dot) com
+          Maintained by:  Odysseas Chryssos ody (dot) chryssos @ gmail (dot) com
+
+Features:
+          - Secure Token-Based Authentication (AppKey & SessionKey)
+          - Self-Hosted
+          - API-Friendly with Developer SDKs
+
+To-Do:
+         + Create User
+         + Create Sessions
+         - Login User
+         + Register Apps
+         - Save & Load User Data
+
+How to Use:
+          1. Visit ``auth.goldencube.dev`` and sign up for an application.]
+          3. Read the documendation at ``auth.goldencube.dev/docs``
+          4. Create API request to each endpoint from the docs with the requered info!
+
+How to build:
+          1. Clone this repo in your server
+          2. Download ``yarn``
+          3. Run ``yarn install``
+          4. Run ``yarn start``
+          5. Ready! API endpoints same as the prebuild
+How to leave us:
+          1. Contanct ``auth@goldencube.dev`` and request a data download of your app
+          3. Ask your users to link their accouts with your's system
+          4. [Optional] Rebuild the repo and paste the data of your app!
+
+
+          
